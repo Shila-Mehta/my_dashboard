@@ -26,7 +26,7 @@ CSS3 — for layout and styling
 <img width="2720" height="2650" alt="shila-mehta github io_my_dashboard_ (1)" src="https://github.com/user-attachments/assets/4b5cf580-3c3a-4de5-be33-b0666cb7b7aa" />
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 🌓 Add dark mode
 
